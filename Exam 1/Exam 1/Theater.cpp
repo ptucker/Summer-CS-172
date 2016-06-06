@@ -5,8 +5,8 @@
 
 
 
-void Theater::AddMovie(Movie& MOVIE) {
-	Movie Title = MOVIE;
+void Theater::AddMovie(Movie& movie) {
+	Movie Title = movie;
 }
 
 string Theater::GetMovieForHour(int hour) 

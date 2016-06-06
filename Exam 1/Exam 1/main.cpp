@@ -7,7 +7,6 @@
 
 #include <iostream>
 #include <string>
-#include <cstdlib>
 #include "Movie.h"
 #include "Theater.h"
 using namespace std;

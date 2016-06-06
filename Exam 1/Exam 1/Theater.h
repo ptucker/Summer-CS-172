@@ -14,10 +14,10 @@ private:
 	
 public:
 	int hour = 1;
-	Theater(string NAME, string PHONENUMBER) 
+	Theater(string name, string phonenumber) 
 	{
-		Name = NAME;
-		Phone = PHONENUMBER;
+		Name = name;
+		Phone = phonenumber;
 	}
 	void AddMovie(Movie& M);
 	string GetMovieForHour(int hour);
