@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <cstdlib>
 #ifndef MOVIE_H_
 #define MOVIE_H_
 using namespace std;
@@ -14,9 +13,9 @@ private:
 public:
 	Movie() 
 	{
-		Title = "Shiloh";
-		Genre = "Action";
-		ShowTime = 2;
+		Title = "Brides Maids";
+		Genre = "Comedy";
+		ShowTime = 5;
 	}
 
 	Movie(string title, string genre, int showtime) 
