@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\andrew\desktop\college\7summer term 2016\summer-cs-172\ex04\ex04\source.cpp(138): warning C4700: uninitialized local variable 'smallest' used
+  EX04.vcxproj -> C:\Users\Andrew\Desktop\College\7Summer Term 2016\Summer-CS-172\EX04\Debug\EX04.exe
